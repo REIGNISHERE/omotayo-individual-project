@@ -1,4 +1,4 @@
-# Quiz Master — Timed Trivia Quiz
+    # Quiz Master — Timed Trivia Quiz
 
 A responsive quiz application built with HTML, CSS and vanilla JavaScript. It fetches multiple-choice questions from [Open Trivia DB](https://opentdb.com/).
 
